@@ -35,6 +35,6 @@ The dataset contains the following fields:
 
     - Layoffs by Industry: Which industries had the most layoffs?
     - Layoffs by Location: What locations saw the highest layoffs?
-    - Layoffs by Year: How layoffs trended over time.
-    - Companies with the most layoffs: Identifying companies with  the highest layoffs.
-    - Rolling Total of Layoffs Per Month
+    - Layoffs by Year: How have layoffs trended over time?
+    - Companies with the most layoffs: Identifying companies with  the highest layoffs?
+    - Rolling Total of Layoffs Per Month?
